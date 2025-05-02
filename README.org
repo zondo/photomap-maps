@@ -1,10 +1,12 @@
 #+title: Photo Maps
 
 #+property: header-args+ :results output silent :noweb tangle :mkdirp yes
-#+options: author:nil num:nil toc:t title:t tags:nil timestamp:nil
+#+options: author:nil num:nil toc:nil title:t tags:nil timestamp:nil
 #+export_file_name: docs/index.html
 
-#+auto_export: html
+#+auto_export: md
+
+* Photo Maps
 
 #+begin_center
 
