@@ -1,0 +1,16 @@
+#+title: Photo Maps
+
+#+property: header-args+ :results output silent :noweb tangle :mkdirp yes
+#+options: author:nil num:nil toc:t title:t tags:nil timestamp:nil
+#+export_file_name: docs/index.html
+
+#+auto_export: html
+
+#+begin_center
+
+[[./italy-2025.html][Italy 2025]]
+[[./prague-2025.html][Prague 2025]]
+[[./sweden-2023.html][Sweden 2023]]
+[[./albania-2022.html][Albania 2022]]
+
+#+end_center
