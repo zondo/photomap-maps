@@ -1,7 +1,9 @@
 # Makefile for photomap maps.
 
-FILES = $(wildcard *.zip)
-HTML  = $(subst .zip,.html,$(FILES))
+PHOTOS = ../photos
+
+FILES = $(wildcard $(PHOTOS)/*.zip)
+HTML  = $(subst .zip,.html,$(filename $(FILES)))
 
 all: $(HTML)
 
