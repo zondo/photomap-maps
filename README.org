@@ -10,9 +10,10 @@
 
 #+begin_center
 
-[[./italy-2025.html][Italy 2025]]
-[[./prague-2025.html][Prague 2025]]
-[[./sweden-2023.html][Sweden 2023]]
 [[./albania-2022.html][Albania 2022]]
+[[./sweden-2023.html][Sweden 2023]]
+[[./prague-2025.html][Prague 2025]]
+[[./italy-2025.html][Italy 2025]]
+[[./westbay-2025.html][West Bay 2025]]
 
 #+end_center
