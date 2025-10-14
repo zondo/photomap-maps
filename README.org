@@ -6,14 +6,19 @@
 
 #+auto_export: md
 
-* Photo Maps
+* Holidays
 
-#+begin_center
+2022
 
-[[./albania-2022.html][Albania 2022]]
-[[./sweden-2023.html][Sweden 2023]]
-[[./prague-2025.html][Prague 2025]]
-[[./italy-2025.html][Italy 2025]]
-[[./westbay-2025.html][West Bay 2025]]
+- [[./albania-2022.html][Albania]]
 
-#+end_center
+2023
+
+- [[./sweden-2023.html][Sweden]]
+
+2025
+
+- [[./prague-2025.html][Prague]]
+- [[./italy-2025.html][Italy]]
+- [[./westbay-2025.html][West Bay]]
+- [[./graceland-2025.html][Grace Land]]

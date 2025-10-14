@@ -1,18 +1,19 @@
 
 
-# Photo Maps
+# Holidays
 
-<div class="org-center">
-<p>
+2022
 
-</p>
+-   [Albania](./albania-2022.html)
 
-<p>
-<a href="./albania-2022.html">Albania 2022</a>
-<a href="./sweden-2023.html">Sweden 2023</a>
-<a href="./prague-2025.html">Prague 2025</a>
-<a href="./italy-2025.html">Italy 2025</a>
-<a href="./westbay-2025.html">West Bay 2025</a>
-</p>
-</div>
+2023
+
+-   [Sweden](./sweden-2023.html)
+
+2025
+
+-   [Prague](./prague-2025.html)
+-   [Italy](./italy-2025.html)
+-   [West Bay](./westbay-2025.html)
+-   [Grace Land](./graceland-2025.html)
 
